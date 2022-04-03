@@ -1,15 +1,14 @@
 p {
     font-size: 18;
-    color: blueviolet;
+    color: rgb(226, 43, 43);
 }
 
 ol {
     font-size: 18;
-    color: blueviolet;
+    color: rgb(26, 4, 48);
 }
 
 h1 {
-    background-color: lightblue;
     color: rgb(76, 0, 255);
 }
 
@@ -20,11 +19,18 @@ u {
 
 dl {
     font-size: 20px;
-    text-decoration: underline;
     color: rgb(58, 1, 1);
 }
 
 div {
     width: 100%;
-    background-color: lightgray;
+    background-color: lemonchiffon;
+}
+
+details {
+    color: chocolate;
+}
+
+body {
+    color: rgb(5, 83, 83);
 }
