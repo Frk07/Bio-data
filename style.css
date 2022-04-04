@@ -1,6 +1,8 @@
 p {
     font-size: 18;
-    color: rgb(226, 43, 43);
+    font-style: italic;
+    font-display: 18;
+    color: forestgreen;
 }
 
 ol {
