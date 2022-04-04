@@ -2,16 +2,16 @@ p {
     font-size: 18;
     font-style: italic;
     font-display: 18;
-    color: forestgreen;
+    color: lightcyan;
 }
 
 ol {
     font-size: 18;
-    color: rgb(26, 4, 48);
+    color: rgb(17, 1, 32);
 }
 
 h1 {
-    color: rgb(76, 0, 255);
+    color: lightcyan
 }
 
 u {
@@ -21,18 +21,34 @@ u {
 
 dl {
     font-size: 20px;
-    color: rgb(58, 1, 1);
+    color: lightcyan;
+    font-size: medium;
 }
 
 div {
     width: 100%;
-    background-color: lemonchiffon;
+    background-color: darkgoldenrod
 }
 
 details {
-    color: chocolate;
+    color: lightcyan;
 }
 
 body {
-    color: rgb(5, 83, 83);
+    color: lavenderblush;
+}
+
+h3 {
+    color: darkblue;
+    font-weight: 100;
+    font-style: italic;
+}
+
+a {
+    font-size: large;
+    color: black;
+}
+
+dt {
+    color: black;
 }
